@@ -1,0 +1,2 @@
+com/emazdoor/mycomposable/BuildConfig.java
+ com.emazdoor.mycomposable.BuildConfig
